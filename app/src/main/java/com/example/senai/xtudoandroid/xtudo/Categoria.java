@@ -7,6 +7,14 @@ public class Categoria
     private int descricao;
     private String linkFoto;
 
+    public Categoria(int id, String nome, int descricao, String linkFoto)
+    {
+        this.id = id;
+        this.nome = nome;
+        this.descricao = descricao;
+        this.linkFoto = linkFoto;
+    }
+
     public int getId()
     {
         return id;
