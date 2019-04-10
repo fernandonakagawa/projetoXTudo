@@ -1,8 +1,14 @@
 package com.example.senai.xtudoandroid.xtudo;
 
-public class EmpresaCliente
+public class EmpresaCliente extends Empresa
 {
     private Pedido pedido;
+
+    public EmpresaCliente(int id, String nome, String nomeFantasia, String cnpj, AvaliacaoGeral ag, String linkFoto, Pedido pedido)
+    {
+        super(id, nome, nomeFantasia, cnpj, ag, linkFoto);
+        this.pedido = pedido;
+    }
 
     public boolean realizarCadastro()
     {
