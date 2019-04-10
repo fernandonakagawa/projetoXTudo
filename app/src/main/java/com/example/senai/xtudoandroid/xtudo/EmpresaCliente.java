@@ -54,5 +54,4 @@ public class EmpresaCliente extends Empresa
     {
         return true;
     }
->>>>>>> 7eab35a6808f8b83361cb62efc77787bbdb83e72
 }
