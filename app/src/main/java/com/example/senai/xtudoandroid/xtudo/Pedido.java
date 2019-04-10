@@ -13,7 +13,7 @@ public class Pedido {
     private int cancelado_forncedor;
     private int id;
     private int status;
-    private ArrayList<>Produto;
+    private ArrayList<Produto> aProdutos;
     
 
 
