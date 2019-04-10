@@ -14,5 +14,6 @@ public class Produto {
         this.nome = nome;
         this.categoria = categoria;
         this.linkFoto = linkFoto;
+        //
     }
 }
