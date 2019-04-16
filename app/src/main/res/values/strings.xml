@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">XTudoAndroid</string>
+    <string name="nomeEmpresa">Nome da empresa</string>
+    <string name="hNomeEmpresa">Digite o nome da empresa</string>
+    <string name="hRazaoSocial">Digite a razão social</string>
+    <string name="hCnpj">Digite o CNPJ da empresa</string>>
+    <string name="hEmail">Digite o email</string>
+    <string name="bAnexarFoto">Anexar foto</string>
+    <string name="bRealizarCadastro">Realizar o cadastro</string>
 </resources>

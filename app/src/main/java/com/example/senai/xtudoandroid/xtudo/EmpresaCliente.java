@@ -12,6 +12,7 @@ public class EmpresaCliente extends Empresa
 
     public boolean realizarCadastro()
     {
+
         return true;
     }
 
